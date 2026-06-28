@@ -47,6 +47,11 @@ On that project I design and implement the full decision-making stack: behavior 
 ![MATLAB](https://img.shields.io/badge/MATLAB-E67300?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
 
+**Data Science & ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
